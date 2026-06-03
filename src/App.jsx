@@ -12,19 +12,17 @@ import ShowsPage from "./pages/Shows/ShowsPage";
 
 const App = () => {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/stream-vibe">
       <Routes>
         <Route path="/" element={<HomePage />} />
         <Route path="/movies" element={<MoviesPage />} />
-        {/* DYNAMIC MOVIE DETAILS PATH */}
         <Route path="/movies/:id" element={<MovieOpenPage />} />
-        {/* For your clicked TV shows */}
         <Route path="/shows/:id" element={<ShowOpenPage />} />
-       <Route path="/shows" element={<ShowsPage />} />
+        <Route path="/shows" element={<ShowsPage />} />
         <Route path="/support" element={<SupportPage />} />
         <Route path="/subscriptions" element={<SubscriptionsPage />} />
       </Routes>
-        <ScrollToTopButton />
+      <ScrollToTopButton />
     </BrowserRouter>
   );
 };
