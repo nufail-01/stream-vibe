@@ -33,7 +33,8 @@ Stream Vibe delivers a premium streaming-platform experience inspired by modern 
 ---
 
 ## 🌐 Live Demo
-🔗 https://nufail-01.github.io/stream-vibe/
+🔗 [![Website Preview](src/assets/images/hairsalon.jpg
+)](https://nufail-01.github.io/stream-vibe/)
 
 ---
 
@@ -74,14 +75,6 @@ https://github.com/nufail-01/stream-vibe
 
 ---
 
-## 🌐 Live Demo
-
-Add your project screenshot here:
-
-``` 
-[![Website Preview](src/assets/images/hairsalon.jpg
-)](https://nufail-01.github.io/stream-vibe/)
-```
 
 ## 🤝 Connect With Me
 
