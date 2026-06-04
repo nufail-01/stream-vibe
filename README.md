@@ -66,15 +66,6 @@ During the development of Stream Vibe, I gained hands-on experience with:
 
 ---
 
-
-## 🚀 Installation & Setup
-
-Clone the repository:
-
-```bash
-git clone https://github.com/nufail-01/stream-vibe.git
-```
-
 ## 📂 Source Code
 
 🔗 GitHub Repository
@@ -83,15 +74,14 @@ https://github.com/nufail-01/stream-vibe
 
 ---
 
-## 📸 Preview
+## 🌐 Live Demo
 
 Add your project screenshot here:
 
-```md
-![Stream Vibe Preview](./src/assets/preview-image.png)
+``` 
+[![Website Preview](src/assets/images/hairsalon.jpg
+)](https://nufail-01.github.io/stream-vibe/)
 ```
-
----
 
 ## 🤝 Connect With Me
 
@@ -110,9 +100,6 @@ https://github.com/nufail-01
 This project is created for educational and portfolio purposes.
 
 ```
-```
-
-
 
 # React + Vite
 
